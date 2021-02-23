@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/hm-react-4/static/js/main.32512841.chunk.js",
+    "main.js.map": "/hm-react-4/static/js/main.32512841.chunk.js.map",
+    "runtime-main.js": "/hm-react-4/static/js/runtime-main.1e1f4d31.js",
+    "runtime-main.js.map": "/hm-react-4/static/js/runtime-main.1e1f4d31.js.map",
+    "static/js/2.149ca879.chunk.js": "/hm-react-4/static/js/2.149ca879.chunk.js",
+    "static/js/2.149ca879.chunk.js.map": "/hm-react-4/static/js/2.149ca879.chunk.js.map",
+    "index.html": "/hm-react-4/index.html",
+    "static/js/2.149ca879.chunk.js.LICENSE.txt": "/hm-react-4/static/js/2.149ca879.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e1f4d31.js",
+    "static/js/2.149ca879.chunk.js",
+    "static/js/main.32512841.chunk.js"
+  ]
+}
